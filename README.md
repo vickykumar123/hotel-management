@@ -1,8 +1,17 @@
-# React + Vite
+# Hotel Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/vickykumar123/hotel-management/assets/41174782/282ecad4-b0c2-42a2-8457-8157879b89dc)
 
-Currently, two official plugins are available:
+Live-Demo : https://vicky-hotel-management.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### This Application is built with react full stack and used backend of supabase for managing the database,authentication and security.
+
+You can get started with running 
+```
+npm run dev
+```
+
+Also make sure you have supabase api key and it in supabase config in src folder.
+
+If any queries reach out to me in linkedin or twitter.
+
